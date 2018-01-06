@@ -1,0 +1,16 @@
+D1: MLP - -0.1 - [0;4] - H -> 337 - 5.94* -> MLP_FTR_D1_VALIDATION +++
+E0: stacking - 0 - [0;4] - H -> 258 - 9.98* -> STACKING_FTR_E0_BEST_VALIDATION +++
+E1: stacking - _ - [0;1.9] - _ -> 345 - 5.31 -> STACKING_FTR_E1_BEST_VALIDATION ++
+F1: MLP - <-0.1 - [0;4] - _ -> 242 - 9.92 -> MLP_FTR_F1_VALIDATION +
+I1: MLP - _ - [0;2.8] - _ - H-A [-2;0.2] -> 238 - 12.61 -> MLP_FTR_I1_VALIDATION ++
+E2: stacking - _ - [1.6;2] - H - H-A [-0.5;2.5] -> 228 - 13.43 -> STACKING_FTR_E2_BEST_VALIDATION ++
+SP1: stacking - <-0.1 - [0;2] - H -  -> 201 - 8.74 -> STACKING_FTR_SP1_BEST_VALIDATION +
+SC0: stacking - < 0.1 - [2;3] - A -  -> 66 - 17.93 -> STACKING_FTR_SC0_BEST_VALIDATION +
+
+* Plus on augmente le prob_less_bet et meilleur sont les resultats -> Mettre en place une strategie
+
++++337*5.94+
+
+(337*5.94+258*9.98+345*5.31+242*9.92+238*12.61+228*13.43+201*8.74+66*17.93)/(337+258+345+242+238+228+201+66)/100
+
+(337+258+345+242+238+228+201+66)/3/26

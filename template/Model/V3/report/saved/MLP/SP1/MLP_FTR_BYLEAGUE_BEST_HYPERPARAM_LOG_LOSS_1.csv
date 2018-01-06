@@ -1,0 +1,4 @@
+,league,season,historical_training_year,features,best_score,hidden_layer_sizes,activation,solver,alpha,max_iter
+0,SP1,2014,7,best_features_MLP,0.530061892131,"(220,)",logistic,sgd,2.8,210
+1,SP1,2015,7,best_features_MLP,0.536488279522,"(110,)",logistic,sgd,2.8,100
+2,SP1,2016,7,best_features_MLP,0.541092847623,"(60,)",logistic,sgd,0.3,190

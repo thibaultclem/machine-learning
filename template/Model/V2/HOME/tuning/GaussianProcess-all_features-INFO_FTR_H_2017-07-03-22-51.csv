@@ -1,0 +1,2 @@
+,mean_fit_time,mean_score_time,mean_test_score,mean_train_score,params,rank_test_score,split0_test_score,split0_train_score,split1_test_score,split1_train_score,split2_test_score,split2_train_score,split3_test_score,split3_train_score,std_fit_time,std_score_time,std_test_score,std_train_score
+0,1395.11276102,84.2684782147,-16.2252651788,-9.99200722163e-16,{},1,-15.8585539272,-9.99200722163e-16,-16.4204622934,-9.99200722163e-16,-16.770110926,-9.99200722163e-16,-15.8517985481,-9.99200722163e-16,97.7234121333,5.68459290081,0.390165951374,0.0

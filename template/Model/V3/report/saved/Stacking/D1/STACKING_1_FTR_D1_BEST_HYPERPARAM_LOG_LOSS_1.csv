@@ -1,0 +1,4 @@
+,league,season,historical_training_year,best_score,C,penalty,class_weight,solver,max_iter
+0,D1,2014,9,0.492328519856,3.381,l2,,lbfgs,270
+1,D1,2015,9,0.507415730337,0.581,l2,,newton-cg,450
+2,D1,2016,9,0.508130081301,5.231,l2,,newton-cg,110

@@ -1,0 +1,4 @@
+,league,season,historical_training_year,features,best_score,learning_rate,n_estimators,max_depth,min_child_weight,gamma,subsample,colsample_bytree,objective,scale_pos_weight,reg_alpha
+0,D1,2014,9,all_features,0.489620938628,0.01,160,5,1,0.28,0.7,0.65,multi:softprob,1,0.63
+1,D1,2015,9,all_features,0.497078651685,0.01,250,4,1,0.31,0.8,0.5,multi:softprob,1,0.24
+2,D1,2016,9,all_features,0.499096657633,0.01,250,4,1,0.52,0.8,0.6,multi:softprob,1,0.51
